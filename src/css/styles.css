@@ -8,15 +8,21 @@
 @import url('./header.css');
 @import url('./hero.css');
 @import url('./about.css');
+@import url('./individualy.css');
+@import url('./business.css');
+@import url('./blog.css');
+@import url('./our-team.css');
+@import url('./callback.css');
+@import url('./footer.css');
 
 :root {
-  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 24px;
+  font-family: "Open Sans",
+    sans-serif;
+  font-size: 18px;
+  line-height: 1.56;
   font-weight: 400;
-
-  color: #242424;
-  background-color: rgba(255, 255, 255, 0.87);
+  --prime-color: #333;
+  background-color: #f4f4f4;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
