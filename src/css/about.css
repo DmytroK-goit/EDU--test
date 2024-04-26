@@ -1,1 +1,24 @@
-.about{background-color: #05b926;}
+
+.about {
+}
+svg {
+  border-radius: 33px;
+  width: 67px;
+  height: 67px;
+  background: #28a745;
+}
+.svg-ico {
+  fill: #fff;
+}
+h2 {
+  text-align: center;
+}
+.about ul {
+  display: flex;
+  justify-content: center;
+}
+.about ul li {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
